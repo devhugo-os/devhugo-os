@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hugo Oliveira Silva</title>
+  <desc id="desc">Código, criatividade e experiências digitais.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091b1a"/>
+      <stop offset="0.55" stop-color="#102f2c"/>
+      <stop offset="1" stop-color="#0a1822"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4de4ae"/>
+      <stop offset="1" stop-color="#79b8ff"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#c1f9e7" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <circle cx="1020" cy="150" r="155" fill="none" stroke="#4de4ae" stroke-opacity=".15" stroke-width="1"/>
+  <circle cx="1020" cy="150" r="110" fill="none" stroke="#79b8ff" stroke-opacity=".22" stroke-width="1"/>
+  <circle cx="1020" cy="150" r="65" fill="none" stroke="#4de4ae" stroke-opacity=".3" stroke-width="1"/>
+  <path d="M845 215 C913 165 949 210 1020 150 S1120 91 1190 75" fill="none" stroke="url(#accent)" stroke-opacity=".7" stroke-width="2"/>
+  <circle cx="1020" cy="150" r="9" fill="#4de4ae"/>
+  <circle cx="865" cy="201" r="4" fill="#79b8ff"/>
+  <circle cx="1164" cy="84" r="4" fill="#4de4ae"/>
+  <rect x="64" y="62" width="46" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="124" fill="#f3fffb" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="1">Hugo Oliveira Silva</text>
+  <text x="66" y="166" fill="#84efc7" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="3">DESENVOLVEDOR  /  CRIADOR</text>
+  <text x="66" y="222" fill="#b5d2cf" font-family="Segoe UI, Arial, sans-serif" font-size="19">Código, criatividade e experiências digitais.</text>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="21.5" fill="none" stroke="#66d9b4" stroke-opacity=".24"/>
+</svg>
