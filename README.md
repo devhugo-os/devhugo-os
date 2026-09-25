@@ -3,7 +3,7 @@
 
   <br />
 
-  **Desenvolvimento web · jogos · projetos com propósito**
+  <p><strong>Desenvolvimento web · jogos · projetos com propósito</strong></p>
 
   <p>
     <a href="https://devhugo-os.github.io/Portfolio/">Portfólio</a> ·
@@ -27,6 +27,7 @@ Gosto de transformar ideias em experiências que as pessoas possam usar, explora
 | [Kicker-Hax](https://github.com/devhugo-os/Kicker-Hax) | Jogo de futebol para navegador inspirado em Haxball, com foco em partidas e experiência multijogador. | JavaScript · Web |
 | [Champions Chess INFO](https://github.com/devhugo-os/Champions-Chess-INFO) | Ferramenta e materiais para organizar um campeonato interno de xadrez do IFMA, Campus Açailândia. | JavaScript · Web |
 | [Portfólio](https://github.com/devhugo-os/Portfolio) | Meu espaço para apresentar projetos, habilidades e experimentos. | JavaScript · HTML · CSS |
+| [NeuroSys](https://github.com/Rhuan-cmd/NeuroSys) | Jogo colaborativo de terror psicológico em pixel art sobre cyberbullying. | GameMaker · GML |
 
 ### O que estou explorando
 
