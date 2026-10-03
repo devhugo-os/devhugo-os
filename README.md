@@ -18,7 +18,7 @@
 
 Gosto de transformar ideias em experiências que as pessoas possam usar, explorar e jogar. Entre interfaces web, APIs e jogos 2D, procuro unir lógica, identidade visual e interação. Meus projetos passam por educação, ferramentas para comunidades e experimentos com jogos.
 
-> “O código é a ferramenta mais poderosa para contar histórias interativas.”
+> “O abstrato é o faísca que nos faz pensar, raciocinar e, sem parar, criar.”
 
 ### Projetos em destaque
 
@@ -34,10 +34,6 @@ Gosto de transformar ideias em experiências que as pessoas possam usar, explora
 `JavaScript` `Node.js` `Java` `Python` `HTML` `CSS` `GameMaker` `APIs` `Jogos 2D`
 
 Tenho trabalhado também em projetos privados de **tecnologia para educação e meio ambiente**, **sistemas em Java** e **protótipos de jogos**. Eles ajudam a orientar o que construo e aprendo, mesmo quando o código ainda não está público.
-
-### Fora do código
-
-Gosto de criar jogos com uma ideia clara por trás. [Mirror Jump](https://rhjava.itch.io/mirror-jump) nasceu em uma game jam; **English Today** explora o aprendizado de inglês de forma lúdica.
 
 <div align="center">
   <br />
