@@ -1,4 +1,4 @@
-# Hi there, I'm Hugo Oliveira Silva 👋
+# Hugo Oliveira Silva
 
 > *"O abstrato é a faísca que nos faz pensar, raciocinar e, sem parar, criar."*
 
