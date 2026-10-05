@@ -1,41 +1,57 @@
+# Hi there, I'm Hugo Oliveira Silva 👋
+
+> *"O abstrato é a faísca que nos faz pensar, raciocinar e, sem parar, criar."*
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 📍 Baseado no **Brasil**
+- 🌐 Confira meu **[Portfólio Interativo](https://devhugo-os.github.io/Portfolio/)**
+- 🎯 Focado em desenvolvimento de software, aprendizado contínuo e resolução de problemas complexos.
+- 💬 Vamos conversar sobre tecnologia, desenvolvimento web e novos projetos!
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### Linguagens & Frameworks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Ferramentas & Outros
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+*(Dica: ajuste ou adicione as tecnologias que você realmente utiliza no seu dia a dia)*
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
 <div align="center">
-  <img src="./assets/banner.svg" alt="Hugo Oliveira Silva — código, criatividade e experiências digitais" width="100%" />
-
-  <br />
-
-  <p><strong>Desenvolvimento web · jogos · projetos com propósito</strong></p>
-
-  <p>
-    <a href="https://devhugo-os.github.io/Portfolio/">Portfólio</a> ·
-    <a href="https://github.com/devhugo-os?tab=repositories">Repositórios</a> ·
-    <a href="https://rhjava.itch.io/mirror-jump">Mirror Jump no itch.io</a>
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhugo-os&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhugo-os&layout=compact&theme=dark"/>
 </div>
 
 ---
 
-### Oi, eu sou o Hugo 👋
+### 📬 Conecte-se comigo
 
-Gosto de transformar ideias em experiências que as pessoas possam usar, explorar e jogar. Entre interfaces web, APIs e jogos 2D, procuro unir lógica, identidade visual e interação. Meus projetos passam por educação, ferramentas para comunidades e experimentos com jogos.
+<a href="https://devhugo-os.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
-> “O abstrato é o faísca que nos faz pensar, raciocinar e, sem parar, criar.”
-
-### Projetos em destaque
-
-| Projeto | O que é | Tecnologias |
-| :--- | :--- | :--- |
-| [Kicker-Hax](https://github.com/devhugo-os/Kicker-Hax) | Jogo de futebol para navegador inspirado em Haxball, com foco em partidas e experiência multijogador. | JavaScript · Web |
-| [Champions Chess INFO](https://github.com/devhugo-os/Champions-Chess-INFO) | Ferramenta e materiais para organizar um campeonato interno de xadrez do IFMA, Campus Açailândia. | JavaScript · Web |
-| [Portfólio](https://github.com/devhugo-os/Portfolio) | Meu espaço para apresentar projetos, habilidades e experimentos. | JavaScript · HTML · CSS |
-| [NeuroSys](https://github.com/Rhuan-cmd/NeuroSys) | Jogo colaborativo de terror psicológico em pixel art sobre cyberbullying. | GameMaker · GML |
-
-### O que estou explorando
-
-`JavaScript` `Node.js` `Java` `Python` `HTML` `CSS` `GameMaker` `APIs` `Jogos 2D`
-
-Tenho trabalhado também em projetos privados de **tecnologia para educação e meio ambiente**, **sistemas em Java** e **protótipos de jogos**. Eles ajudam a orientar o que construo e aprendo, mesmo quando o código ainda não está público.
+---
 
 <div align="center">
-  <br />
-  <a href="https://devhugo-os.github.io/Portfolio/"><strong>Conheça meu portfólio →</strong></a>
+  <sub>Desenvolvido com 💙 por Hugo Oliveira Silva</sub>
 </div>
