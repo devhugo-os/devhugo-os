@@ -50,7 +50,3 @@
 </a>
 
 ---
-
-<div align="center">
-  <sub>Desenvolvido com 💙 por Hugo Oliveira Silva</sub>
-</div>
