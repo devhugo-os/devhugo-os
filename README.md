@@ -63,11 +63,6 @@ Sou **Técnico em Informática** focado no desenvolvimento de software e soluç�
   <a href="https://github.com/devhugo-os/Kicker-Hax">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=Kicker-Hax&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="Kicker Hax" width="48%" />
   </a>
-  <!-- Caso o repositório GestARClimAS seja tornado público, use o pin abaixo: -->
-  <!-- Se for privado, este card simples em tabela evita o erro "User Repository Not found" -->
-  <a href="https://github.com/devhugo-os/GestARClimAS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=GestARClimAS&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="GestARClimAS" width="48%" />
-  </a>
 </div>
 
 ---
