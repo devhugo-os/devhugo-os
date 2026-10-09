@@ -86,8 +86,7 @@ Sou **Técnico em Informática** focado no desenvolvimento de software e soluç�
 </div>
 
 <div align="center">
-  <!-- Heatmap SVG gerado via API pública estável -->
-  <img src="https://ghchart.rshah.org/devhugo-os" alt="Mapa de Contribuições de Hugo" width="100%" />
+  <img src="https://ghchart.rshah.org/devhugo-os" alt="Gráfico de Contribuições" width="100%" />
 </div>
 
 ---
