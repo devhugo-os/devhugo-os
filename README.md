@@ -78,21 +78,27 @@ Sou **Técnico em Informática** focado no desenvolvimento de software e soluç�
 
 ---
 
-### 📈 Gráfico de Atividade
+### 📈 Atividade no GitHub
 
 <div align="center">
-  <img src="https://activity-graph.cyclic.app/graph?username=devhugo-os&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" onerror="this.onerror=null; this.src='https://github-readme-activity-graph.vercel.app/graph?username=devhugo-os&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true';" />
+  <!-- Gráfico de atividade e contribuições estável -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhugo-os&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" onerror="this.style.display='none'" />
 </div>
 
-<!-- Alternativa mais robusta caso o serviço acima persista fora do ar: o próprio SVG de contribuições gerado automaticamente -->
-<!-- <div align="center"><img src="https://ssr-contributions-svg.vercel.app/_/devhugo-os?chart=bar&theme=dark" width="100%" alt="Gráfico de Atividade" /></div> -->
+<div align="center">
+  <!-- Heatmap SVG gerado via API pública estável -->
+  <img src="https://ghchart.rshah.org/devhugo-os" alt="Mapa de Contribuições de Hugo" width="100%" />
+</div>
 
 ---
 
-### 🏆 Conquistas & Troféus
+### 🏆 Conquistas do Perfil
 
+<!-- Badges nativas estilizadas em vez de serviço instável de troféus -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devhugo-os&theme=matrix&column=7&margin_w=15&margin_h=15" width="100%" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/GitHub-Profile_Verified-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Verified" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-161b22?style=for-the-badge&logo=git&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-161b22?style=for-the-badge&logo=codeforces&logoColor=white" alt="Building" />
 </div>
 
 ---
