@@ -78,16 +78,6 @@ Sou **Técnico em Informática** focado no desenvolvimento de software e soluç�
 
 ---
 
-### 📈 Atividade no GitHub
-
-<div align="center">
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/devhugo-os" alt="Gráfico de Contribuições" width="100%" />
-</div>
-
----
-
 ### 🏆 Conquistas do Perfil
 
 <!-- Badges nativas estilizadas em vez de serviço instável de troféus -->
