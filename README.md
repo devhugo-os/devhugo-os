@@ -1,48 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hugo%20Oliveira%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=T%C3%A9cnico%20em%20Inform%C3%A1tica%20%7C%20Full%20Stack%20Developer&descFontSize=18&descColor=8b949e&descAlignY=62" width="100%" />
 
+  <!-- BANNER PRINCIPAL -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hugo%20Oliveira%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=T%C3%A9cnico%20em%20Inform%C3%A1tica&descFontSize=18&descAlignY=60&descAlign=50" alt="Banner Hugo Oliveira" width="100%" />
+
+  <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=T%C3%A9cnico+em+Inform%C3%A1tica;Desenvolvedor+Full+Stack+%26+GameDev;GML+%7C+TypeScript+%7C+Python+%7C+Java;Focado+em+c%C3%B3digo+limpo+e+alta+performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=T%C3%A9cnico+em+Inform%C3%A1tica;Desenvolvedor+Web+%26+Software;Foco+em+JavaScript%2C+Python+%26+Java;Criando+solu%C3%A7%C3%B5es+eficientes+e+modernas" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/hugo-oliveira-silva-556b0941a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/devhugo-os" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <br/><br/>
+
+  <!-- REDES SOCIAIS -->
+  <a href="https://www.linkedin.com/in/hugo-oliveira-silva-556b0941a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=30363d" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:contato.hugo@example.com">
+    <img src="https://img.shields.io/badge/Contato-161b22?style=for-the-badge&logo=maildotru&logoColor=white&borderColor=30363d" alt="Email" />
+  </a>
+
 </div>
 
 ---
 
-### 📌 Sobre mim
+### 👨‍💻 Sobre Mim
 
-* 💻 Formação: **Técnico em Informática**
-* 🛠️ Experiência prática em desenvolvimento web, sistemas e lógica de programação (além de game dev com GML).
-* 🎯 Focado em arquitetura de software, código limpo e soluções escaláveis.
-* 🌐 GitHub: [@devhugo-os](https://github.com/devhugo-os)
+Sou **Técnico em Informática** focado no desenvolvimento de software e soluções web modernas. Tenho experiência prática na criação de aplicações completas, lógica de programação avançada, desenvolvimento de jogos e interfaces reativas, prezando sempre por código limpo, organização e desempenho.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Habilidades
 
 <div align="center">
-
-  **Linguagens & Game Dev**<br>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
-
-  <br><br>
-
-  **Frameworks & Runtime**<br>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/GameMaker%20(GML)-161b22?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker" />
 </div>
 
 ---
@@ -50,44 +46,28 @@
 ### 🚀 Projetos em Destaque
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Rhuan-cmd/NeuroSys">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan-cmd&repo=NeuroSys&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Rhuan-cmd/Biblioteca-FullStack">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan-cmd&repo=Biblioteca-FullStack&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/devhugo-os/Portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=Portfolio&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/devhugo-os/GestARClimAS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=GestARClimAS&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/devhugo-os/Kicker-Hax">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=Kicker-Hax&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/devhugo-os/Champions-Chess-INFO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=Champions-Chess-INFO&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Rhuan-cmd/NeuroSys">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan-cmd&repo=NeuroSys&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="NeuroSys" width="48%" />
+  </a>
+  <a href="https://github.com/Rhuan-cmd/Biblioteca-FullStack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rhuan-cmd&repo=Biblioteca-FullStack&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="Biblioteca-FullStack" width="48%" />
+  </a>
+  <br/>
+  <a href="https://github.com/devhugo-os/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=Portfolio&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="Portfolio" width="48%" />
+  </a>
+  <a href="https://github.com/devhugo-os/Champions-Chess-INFO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=Champions-Chess-INFO&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="Champions Chess INFO" width="48%" />
+  </a>
+  <br/>
+  <a href="https://github.com/devhugo-os/Kicker-Hax">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=Kicker-Hax&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="Kicker Hax" width="48%" />
+  </a>
+  <!-- Caso o repositório GestARClimAS seja tornado público, use o pin abaixo: -->
+  <!-- Se for privado, este card simples em tabela evita o erro "User Repository Not found" -->
+  <a href="https://github.com/devhugo-os/GestARClimAS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devhugo-os&repo=GestARClimAS&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="GestARClimAS" width="48%" />
+  </a>
 </div>
 
 ---
@@ -95,14 +75,10 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devhugo-os&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhugo-os&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e" width="48%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devhugo-os&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="97%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devhugo-os&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=ffffff&text_color=8b949e&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhugo-os&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=8b949e&hide_border=false" width="48%" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=devhugo-os&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -110,7 +86,7 @@
 ### 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhugo-os&bg_color=0d1117&color=ffffff&line=ffffff&point=8b949e&area=true&border_color=30363d&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhugo-os&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -118,7 +94,7 @@
 ### 🏆 Conquistas & Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devhugo-os&theme=darkhub&no-bg=false&margin_w=10&margin_h=10&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devhugo-os&theme=darkhub&no-frame=false&no-bg=false&margin_w=8" width="95%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -126,11 +102,7 @@
 ### 🐍 Snake Contribution
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devhugo-os/devhugo-os/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devhugo-os/devhugo-os/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/devhugo-os/devhugo-os/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/devhugo-os/devhugo-os/output/github-contribution-grid-snake-dark.svg" alt="Snake Eating Contributions" width="100%" />
 </div>
 
 ---
