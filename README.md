@@ -81,9 +81,6 @@ Sou **Técnico em Informática** focado no desenvolvimento de software e soluç�
 ### 📈 Atividade no GitHub
 
 <div align="center">
-  <!-- Gráfico de atividade e contribuições estável -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhugo-os&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" onerror="this.style.display='none'" />
-</div>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/devhugo-os" alt="Gráfico de Contribuições" width="100%" />
