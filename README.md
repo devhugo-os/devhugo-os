@@ -81,15 +81,18 @@ Sou **Técnico em Informática** focado no desenvolvimento de software e soluç�
 ### 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhugo-os&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://activity-graph.cyclic.app/graph?username=devhugo-os&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" onerror="this.onerror=null; this.src='https://github-readme-activity-graph.vercel.app/graph?username=devhugo-os&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true';" />
 </div>
+
+<!-- Alternativa mais robusta caso o serviço acima persista fora do ar: o próprio SVG de contribuições gerado automaticamente -->
+<!-- <div align="center"><img src="https://ssr-contributions-svg.vercel.app/_/devhugo-os?chart=bar&theme=dark" width="100%" alt="Gráfico de Atividade" /></div> -->
 
 ---
 
 ### 🏆 Conquistas & Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devhugo-os&theme=darkhub&no-frame=false&no-bg=false&margin_w=8" width="95%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devhugo-os&theme=matrix&column=7&margin_w=15&margin_h=15" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
